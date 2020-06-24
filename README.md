@@ -18,3 +18,11 @@ Instituições de reciclagem cadastram seus pontos de coleta para que pessoas po
 
 ### Conclusão de cadastro
 ![Modal cadastro](https://github.com/hochforce/NextLevelWeek/blob/master/modal-cadastro.PNG)
+
+
+++++++++++++++++++++++++++++
+
+**&copy; <img src="rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+
+**Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
+
